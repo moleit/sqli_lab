@@ -20,10 +20,10 @@ SQLI-LABS实验室包括GET和POST场景:
 7. 二次注入
 8. WAF绕过
 	1. 绕过黑名单过滤器
-		绕过评论
-		绕过 or & and
-		绕过空格和注释
-		绕过 union及select
+		1. 绕过评论
+		2. 绕过 or & and
+		3. 绕过空格和注释
+		4. 绕过 union及select
 	2 Impidence不匹配
 9. 绕过addslashes ()
 10. 绕过mysql_real_escape_string。(在特殊情况下)
